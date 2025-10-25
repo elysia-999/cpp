@@ -1,7 +1,0 @@
-{
-	"InstallScripts" : 
-	[
-		"D:/vscode/code/build/cmake_install.cmake"
-	],
-	"Parallel" : false
-}
